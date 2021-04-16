@@ -51,6 +51,7 @@
     </dependencies>
 
     <build>
+        <finalName>intro-junit5</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
